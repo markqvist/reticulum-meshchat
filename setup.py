@@ -2,7 +2,7 @@ from cx_Freeze import setup, Executable
 
 setup(
     name='ReticulumMeshChat',
-    version='1.0.0',
+    version='2.2.2',
     description='A simple mesh network communications app powered by the Reticulum Network Stack',
     executables=[
         Executable(
